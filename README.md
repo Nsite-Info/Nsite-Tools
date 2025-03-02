@@ -1,6 +1,6 @@
 # Nsite-Tools
 A list of usefull tools and repo's you can use to deploy and debug Nsite's.
-
+These are build by some great folks: [Lez](https://github.com/lez) [flox1an](https://github.com/flox1an) [hzrd149](https://github.com/hzrd149)
 
 ## Nsite Uploaders
 
